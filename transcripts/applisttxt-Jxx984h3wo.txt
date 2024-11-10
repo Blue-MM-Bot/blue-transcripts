@@ -1,0 +1,81 @@
+7zip
+badlion lient
+adobe
+brave
+canon lbp2900
+cloudflare warp
+discord
+discord ptb
+discord rpc
+discord bot client
+driver booster 9.3
+dropbox
+epic games
+exodus
+FileZilla
+git
+GitHub desktop
+go
+google chrome
+google drive
+gta 5
+idm
+java 8
+java 22
+.net sdk
+Microsoft 365
+Microsoft .net 6
+onedrive
+edge
+Microsoft sql driver
+Microsoft visual c++ (all) (christitus)
+Minecraft launcher
+mozilla firefox
+visual studio professional
+visual studio code
+thunderbird
+node.js
+notepad++
+ntlite
+nvm for windows
+obs studio
+opera
+powertoys
+premid
+python 3.12
+quick share
+rainmeter
+resource hacker
+rockstar launcher
+spotify
+steam
+telegram
+terabox
+unified remote
+lunar client
+uxtheme patcher
+vlc
+wallpaper engine
+winaero tweaker
+windscribe
+WinRAR
+wondershare filmora
+winscp
+yarn
+youtube
+
+
+
+
+
+
+
+
+
+iTunes
+pc manager
+xbox
+kali Linux
+WhatsApp beta
+WhatsApp
+translucent TB
